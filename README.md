@@ -3,6 +3,7 @@ The Book Store API is a RESTful service built with Node.js and Express, designed
 
 Features
 Books Management
+
 Endpoint: /api/books
 Description: Manage book records with full CRUD (Create, Read, Update, Delete) operations.
 Authors Management
@@ -41,7 +42,7 @@ npm
 MongoDB
 
 Installation
-Clone the repository: git clone https://github.com/your-username/book-store-api.git
+Clone the repository: git clone https://github.com/77MohamedShaban/book-store-API.git
 
 Navigate to the project directory: cd book-store-api
 
